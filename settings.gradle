@@ -3,4 +3,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'spring-demo-mongodb'
+rootProject.name = 'springboot-data-mongodb'
